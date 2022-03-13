@@ -10,7 +10,7 @@ One paragraph of project description goes here
 1. [$Toolname Python API Wrapper](#$Toolname-Python-API-Wrapper)
 2. [Metadata](#Metadata)
 
-![](plalceholder.png)
+![](placeholder.png)
 
 ## Getting Started
 
